@@ -1,0 +1,5 @@
+window.sessionConfiguration = {
+    appId: 'your dot-separated words name for the app',
+    apiKey: "put your api key from croquet.io/keys",
+};
+
